@@ -1,7 +1,7 @@
 # 2026_02_B
 <html>
 <head>
- <title>電気情報工学実験IIIA　グループ製作 </title>
+ <title>電気情報工学実験IIIAグループ製作 </title>
 </head>
 <body>
   <h1>三都市の比較</h1>
