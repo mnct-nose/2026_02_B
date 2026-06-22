@@ -11,7 +11,7 @@
      気象庁のオープンデータから読み取った情報をグラフにし、下記に示す。</p>
   <p>  <img src="./kisyotyo_kosuiryo.png">  </p>
 
-　<li><a href="https://www.data.jma.go.jp/risk/obsdl/index.php" target="_blank" 気象庁｜過去の気象データ(2026/06/15参照)> </a></li>
+　<li><a href="https://www.data.jma.go.jp/risk/obsdl/index.php" target="_blank"> 気象庁｜過去の気象データ(2026/06/15参照) </a></li>
 
   <h2>考察</h2>
 
